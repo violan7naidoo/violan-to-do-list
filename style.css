@@ -1,0 +1,131 @@
+body {
+  background-color: #f5f5f5;
+  font-family: "Quicksand", sans-serif;
+  font-family: "Raleway", sans-serif;
+}
+
+p {
+  font-family: "Quicksand", sans-serif;
+  font-family: "Raleway", sans-serif;
+}
+
+#violan {
+  padding-top: 20px;
+  font-family: "Quicksand", sans-serif;
+  font-family: "Raleway", sans-serif;
+  font-size: 20px;
+}
+
+#container {
+  max-width: 500px;
+  margin: auto;
+  text-align: center;
+  background-color: #d34040cc;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+  font-family: "Quicksand", sans-serif;
+  font-family: "Raleway", sans-serif;
+}
+
+#inputContainer {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+  font-family: "Quicksand", sans-serif;
+  font-family: "Raleway", sans-serif;
+}
+
+#taskInput {
+  flex-grow: 1;
+  font-size: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  border: none;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  font-family: "Quicksand", sans-serif;
+  font-family: "Raleway", sans-serif;
+}
+
+button {
+  background-color: #e74c3c;
+  font-size: 15px;
+  margin-right: 10px;
+  padding: 10px 15px;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+  font-family: "Quicksand", sans-serif;
+  font-family: "Raleway", sans-serif;
+}
+
+#addBtn {
+  background-color: #e74c3c;
+  color: #fff;
+  margin-left: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+  font-family: "Quicksand", sans-serif;
+  font-family: "Raleway", sans-serif;
+}
+
+#addBtn:hover {
+  transition: all 0.5s ease-in;
+  background-color: #f60303;
+  color: #fff;
+  margin-left: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+  font-family: "Quicksand", sans-serif;
+  font-family: "Raleway", sans-serif;
+}
+#addBtn:hover {
+  transition: all 0.5s ease-in;
+  background-color: #f60303;
+  color: #fff;
+  margin-left: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+  font-family: "Quicksand", sans-serif;
+  font-family: "Raleway", sans-serif;
+}
+
+#removeBtn {
+  background-color: #e74c3c;
+  color: #fff;
+  margin-top: 20px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+  font-family: "Quicksand", sans-serif;
+  font-family: "Raleway", sans-serif;
+}
+#removeBtn:hover {
+  transition: all 0.5s ease-in;
+  background-color: #f60303;
+  color: #fff;
+  margin-top: 20px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+  font-family: "Quicksand", sans-serif;
+  font-family: "Raleway", sans-serif;
+}
+
+#taskList {
+  margin-top: 20px;
+  font-family: "Quicksand", sans-serif;
+  font-family: "Raleway", sans-serif;
+}
+
+.task {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  font-family: "Quicksand", sans-serif;
+  font-family: "Raleway", sans-serif;
+}
+
+.completed {
+  background-color: #f5f5f5;
+  text-decoration: line-through;
+  color: #ccc;
+  font-family: "Quicksand", sans-serif;
+  font-family: "Raleway", sans-serif;
+}
